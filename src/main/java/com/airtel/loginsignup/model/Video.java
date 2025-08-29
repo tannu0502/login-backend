@@ -13,7 +13,7 @@ public class Video {
     private String title;
     private String thumbnailUrl;
     private String hlsUrl;
-    private String category; // NEW FIELD
+    private String category; 
 
     // Getters & Setters
     public Long getId() {
